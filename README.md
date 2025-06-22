@@ -3,12 +3,12 @@
 🎓 Application Development student at ESI Belgium  
 👨‍💻 Self-taught developer 
 
-🌱 I’m currently learning:<br>
-- 🌐 Front-end: HTML, CSS, JavaScript  <br>
-- ⚛️ Soon diving into React & front-end frameworks  <br>
-- ☕ Back-end: Java (OOP & projects)  <br>
-- 🏛️ Legacy programming with COBOL  <br>
-- 🔧 Version control with Git & GitHub  <br>
+🌱 I’m currently learning:
+- 🌐 Front-end: HTML, CSS, JavaScript 
+- ⚛️ Soon diving into React & front-end frameworks  
+- ☕ Back-end: Java (OOP & projects)  
+- 🏛️ Legacy programming with COBOL 
+- 🔧 Version control with Git & GitHub  
 
 
 💬 Always down to discuss tech, motivation & productivity<br>
@@ -23,14 +23,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=DevByRed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DevByRed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevByRed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevByRed&theme=merko&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=DevByRed&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
