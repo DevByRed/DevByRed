@@ -1,7 +1,7 @@
 # Hi, I'm Ilias ✨<br>
 
-🎓 Application Development student at ESI Belgium  <br>
-👨‍💻 Self-taught developer passionate about clean code and impactful apps  <br>
+🎓 Application Development student at ESI Belgium  
+👨‍💻 Self-taught developer 
 
 🌱 I’m currently learning:<br>
 - 🌐 Front-end: HTML, CSS, JavaScript  <br>
