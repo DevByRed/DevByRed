@@ -1,22 +1,73 @@
-# Hi, I'm Ilias ✨<br>
+<h1 align="center">👨‍💻 Hello, I'm Ilias</h1>
 
-🎓 Application Development student at ESI Belgium  
-👨‍💻 Self-taught developer 
+<h3 align="center">🎓 First-year Computer Science student at HE2B ESI (Belgium)</h3>
+<h4 align="center">🧠 Passionate and self-taught developer</h4>
 
-🌱 I’m currently learning:
-- 🌐 Front-end: HTML, CSS, JavaScript 
-- ⚛️ Soon diving into React & front-end frameworks  
-- ☕ Back-end: Java (OOP & projects)  
-- 🏛️ Legacy programming with COBOL 
-- 🔧 Version control with Git & GitHub  
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFoN2F1eTM1ZjY5NWYyMDhyYmZ2cGVjamp6aXdvMGZuaDcwMTgxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZYZEFjLzOV3fq/giphy.gif" width="450" alt="Coding GIF" />
+</p>
 
+---
 
-💬 Always down to discuss tech, motivation & productivity<br>
+## 🛠️ Current Technical Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" alt="Current Skills" />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nzoxy_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayanelhajjami86@gmail.com) 
+## 🔍 Previously Used / Explored
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,arduino,blender,cs,figma" alt="Explored Tools" />
+</p>
 
+<p align="center">
+  💾 Yes, even COBOL has been part of the journey.
+</p>
+
+---
+
+## ⚙️ Tools & Technologies I Use Regularly
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord,gmail,git,gitlab,github,idea,notion,pr,vscode" alt="Tools and Platforms" />
+</p>
+
+---
+
+<details>
+<summary>📚 School Projects</summary>
+
+<br/>
+
+<p align="center">
+  <a href="https://mytube-ui-clone.netlify.app" target="_blank">📁 Project 1 – YouTube Clone (HTML/CSS/JS)</a><br/>
+  <a href="#" target="_blank">📁 Project 2 – ....</a><br/>
+  <a href="#" target="_blank">📁 Project 3 – ....</a>
+</p>
+
+</details>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:rayanelhajjami86@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/redd-web">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💬 Discord
+<p align="center">
+  <b>Red (nzoxy_)</b><br>
+</p>
+
+---
+
+<h4 align="center">✨ This README was written and designed by myself with passion and attention to detail.</h4>
