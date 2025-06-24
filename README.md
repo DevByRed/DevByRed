@@ -70,4 +70,4 @@
 
 ---
 
-<h4 align="center">✨ This README was written and designed by myself with passion and attention to detail.</h4>
+<h4 align="center">✨ This README was written and designed by myself </h4>
