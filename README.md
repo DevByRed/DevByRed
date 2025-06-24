@@ -56,9 +56,6 @@
   <a href="mailto:rayanelhajjami86@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/redd-web">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
