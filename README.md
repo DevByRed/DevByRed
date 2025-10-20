@@ -33,20 +33,6 @@
   <img src="https://skillicons.dev/icons?i=discord,gmail,git,gitlab,github,idea,notion,pr,vscode" alt="Tools and Platforms" />
 </p>
 
----
-
-<details>
-<summary>📚 School Projects</summary>
-
-<br/>
-
-<p align="center">
-  <a href="https://mytube-ui-clone.netlify.app" target="_blank">📁 Project 1 – YouTube Clone (HTML/CSS/JS)</a><br/>
-  <a href="#" target="_blank">📁 Project 2 – ....</a><br/>
-  <a href="#" target="_blank">📁 Project 3 – ....</a>
-</p>
-
-</details>
 
 ---
 
