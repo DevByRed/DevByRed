@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Hello, I'm Ilias</h1>
 
-<h3 align="center">🎓 First-year Computer Science student at HE2B ESI (Belgium)</h3>
+<h3 align="center">🎓 Second-year Computer Science student at HE2B ESI (Belgium)</h3>
 <h4 align="center">🧠 Passionate and self-taught developer</h4>
 
 <p align="center">
