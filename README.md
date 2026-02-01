@@ -12,7 +12,8 @@
 ## 🛠️ Current Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python" alt="Current Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,vue,docker,c" />
+
 </p>
 
 ## 🔍 Previously Used / Explored
