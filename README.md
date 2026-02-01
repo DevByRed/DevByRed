@@ -15,7 +15,7 @@
 
 ## ⚙️ Tools & Technologies I Use Regularly
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,ubuntu,docker" />
+  <img src="https://skillicons.dev/icons?i=discord,gmail,git,gitlab,github,idea,notion,pr,vscode , docker , ubuntu , " alt="Tools and Platforms" />
 </p>
 
 
@@ -30,12 +30,6 @@
 </p>
 
 ---
-
-## ⚙️ Tools & Technologies I Use Regularly
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,gmail,git,gitlab,github,idea,notion,pr,vscode" alt="Tools and Platforms" />
-</p>
 
 
 ---
