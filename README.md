@@ -9,17 +9,27 @@
 
 ---
 
-## 🛠️ Current Technical Stack
+## 🛠️ 1️⃣ Current Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,vue,docker,c" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,vue,c" />
+
+
+</p>
+
+## 🛠️  Current Technical Stack (langages & frameworks)
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,ubuntu,docker ,figma" />
+
 
 </p>
 
 ## 🔍 Previously Used / Explored
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,arduino,blender,cs,figma" alt="Explored Tools" />
+  <img src="https://skillicons.dev/icons?i=php,arduino,blender,cs" alt="Explored Tools" />
 </p>
 
 <p align="center">
