@@ -8,16 +8,21 @@
 </p>
 
 ---
-## 🛠️ Current Technical Stack (langages & frameworks)
+## 🛠️ Current Technical Stack (Langages & Frameworks)
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,vue,c" />
 </p>
 
+---
+
 ## ⚙️ Tools & Technologies I Use Regularly
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,gmail,git,gitlab,github,idea,notion,pr,vscode , docker , ubuntu , " alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=discord,gmail,git,gitlab,github,idea,notion,pr,vscode,docker,ubuntu" alt="Tools and Platforms" />
 </p>
 
+---
 
 ## 🔍 Previously Used / Explored
 
@@ -28,6 +33,7 @@
 <p align="center">
   💾 Yes, even COBOL has been part of the journey.
 </p>
+
 
 ---
 
