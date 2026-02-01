@@ -8,23 +8,16 @@
 </p>
 
 ---
-
-## 🛠️ 1️⃣ Current Technical Stack
-
+## 🛠️ Current Technical Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,vue,c" />
-
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,vue,c" />
 </p>
 
-## 🛠️  Current Technical Stack (langages & frameworks)
-
-
+## ⚙️ Tools & Technologies I Use Regularly
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,ubuntu,docker ,figma" />
-
-
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,ubuntu,docker" />
 </p>
+
 
 ## 🔍 Previously Used / Explored
 
