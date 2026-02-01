@@ -8,7 +8,7 @@
 </p>
 
 ---
-## 🛠️ Current Technical Stack
+## 🛠️ Current Technical Stack (langages & frameworks)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,vue,c" />
 </p>
